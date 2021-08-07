@@ -1,4 +1,4 @@
-  <h2> Hi, I'm Taimoor Sattar!, Full stack developer .</h2>
+  <h2> Hi, I'm Taimoor Sattar!, Full stack developer.</h2>
 <p>Find me at:</p>
 <p><a href="https://twitter.com/taimoorsattar7/"><img src="https://img.shields.io/badge/-taimoorsattar7-blue?style=flat-square&amp;logo=Twitter&amp;logoColor=white&amp;link=https://twitter.com/taimoorsattar7/" alt="Twitter: taimoorsattar7"></a></p>
 <p><a href="https://www.linkedin.com/in/taimoorsattar7/"><img src="https://img.shields.io/badge/-taimoorsattar7-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/taimoorsattar7/" alt="Linkedin: taimoorsattar7"></a></p>
