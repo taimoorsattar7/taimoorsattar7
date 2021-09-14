@@ -23,9 +23,5 @@
 <p>I write about technology (that is used build the web) on my website <a href="https://taimoorsattar.dev">➡️ taimoorsattar.dev</a></p>
 <p><h2> Check my latest Blog Posts (taimoorsattar.dev)</h2></p>
 <p></p>
-  <ul>
-    <li><a href=https://taimoorsattar.dev/blogs/create-html-form/>How to create an HTML form</a></li><li><a href=https://taimoorsattar.dev/blogs/svg/>Learn SVG basics</a></li><li><a href=https://taimoorsattar.dev/blogs/create-responsive-text/>How to create responsive text</a></li>
-  </ul>
-<p><a href="https://taimoorsattar.dev/blog">➡️ More blog posts</a></p>
 <p><h2>Contact Me</h2></p>
 <p>You can reach me at the email in my github profile</p>
