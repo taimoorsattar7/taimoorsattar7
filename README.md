@@ -24,7 +24,7 @@
 <p><h2> Check my latest Blog Posts (taimoorsattar.dev)</h2></p>
 <p></p>
   <ul>
-    <li><a href=https://taimoorsattar.dev/blogs/create-html-form/>How to create an HTML form</a></li><li><a href=https://taimoorsattar.dev/blogs/svg/>Learn SVG basics</a></li><li><a href=https://taimoorsattar.dev/blogs/create-responsive-text/>How to create responsive text</a></li>
+    <li><a href=https://taimoorsattar.dev/blogs/custom-hook-react/>Create your own Custom React hooks</a></li><li><a href=https://taimoorsattar.dev/blogs/create-html-form/>How to create an HTML form</a></li><li><a href=https://taimoorsattar.dev/blogs/svg/>Learn SVG basics</a></li><li><a href=https://taimoorsattar.dev/blogs/create-responsive-text/>How to create responsive text</a></li><li><a href=https://taimoorsattar.dev/blogs/promise-in-javascript/>How to use Promise in JavaScript</a></li><li><a href=https://taimoorsattar.dev/blogs/programming-stack-for-web-development/>How to choose programming stack for web development</a></li><li><a href=https://taimoorsattar.dev/blogs/table-on-webpage/>How to structure data in HTML table</a></li><li><a href=https://taimoorsattar.dev/blogs/react-hooks/>10 React Hooks in General</a></li>
   </ul>
 <p><a href="https://taimoorsattar.dev/blog">➡️ More blog posts</a></p>
 <p><h2>Contact Me</h2></p>
