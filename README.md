@@ -23,5 +23,9 @@
 <p>I write about technology (that is used build the web) on my website <a href="https://taimoorsattar.dev">➡️ taimoorsattar.dev</a></p>
 <p><h2> Check my latest Blog Posts (taimoorsattar.dev)</h2></p>
 <p></p>
+  <ul>
+    <li><a href=https://taimoorsattar.com/blogs/how-to-code-and-build-your-website/>How to code and build your website?</a></li><li><a href=https://taimoorsattar.com/blogs/how-I-built-my-website/>How I Built my Website</a></li><li><a href=https://taimoorsattar.com/blogs/productivity-apps-for-remote-workers/>Productivity apps for remote workers</a></li><li><a href=https://taimoorsattar.com/blogs/css-position-relative-absolute/>CSS Positioning - Absolute and Relative Position</a></li><li><a href=https://taimoorsattar.com/blogs/pseudo-classes-css/>Pseudo-classes in CSS</a></li><li><a href=https://taimoorsattar.com/blogs/image-slider-using-html-css/>Create an image slider using HTML and CSS</a></li><li><a href=https://taimoorsattar.com/blogs/build-platform-to-sell-course/>How do I build a platform to sell my course?</a></li><li><a href=https://taimoorsattar.com/blogs/custom-hook-react/>Create your own Custom React hooks</a></li>
+  </ul>
+<p><a href="https://taimoorsattar.dev/blog">➡️ More blog posts</a></p>
 <p><h2>Contact Me</h2></p>
 <p>You can reach me at the email in my github profile</p>
