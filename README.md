@@ -23,5 +23,9 @@
 <p>I write about technology (that is used build the web) on my website <a href="https://taimoorsattar.dev">➡️ taimoorsattar.dev</a></p>
 <p><h2> Check my latest Blog Posts (taimoorsattar.dev)</h2></p>
 <p></p>
+  <ul>
+    <li><a href=https://taimoorsattar.com/blogs/sanity-cms-for-website/>5 Reasons to choose Sanity CMS for the frontend website</a></li><li><a href=https://taimoorsattar.com/blogs/css-button-styles/>3 CSS button styles with hover and active effects</a></li><li><a href=https://taimoorsattar.com/blogs/gatsby-for-react-developer/>9 reasons to use Gatsby Framework for React developer</a></li><li><a href=https://taimoorsattar.com/blogs/form-submission-puppeteer-2captcha/>How to submit a form with a captcha using Puppeteer?</a></li><li><a href=https://taimoorsattar.com/blogs/solve-captcha-with-2captcha/>How to solve captcha with 2captcha</a></li><li><a href=https://taimoorsattar.com/blogs/image-slider-using-javascript/>Create An Image Slider Using Javascript</a></li><li><a href=https://taimoorsattar.com/blogs/form-submission-with-netlify-forms/>Submission of forms using Netlify Forms</a></li><li><a href=https://taimoorsattar.com/blogs/html-get-started/>Get started with Html</a></li>
+  </ul>
+<p><a href="https://taimoorsattar.dev/blog">➡️ More blog posts</a></p>
 <p><h2>Contact Me</h2></p>
 <p>You can reach me at the email in my github profile</p>
